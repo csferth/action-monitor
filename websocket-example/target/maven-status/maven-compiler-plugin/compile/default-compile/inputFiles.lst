@@ -1,0 +1,15 @@
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\service\MessageService.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\service\ContentService.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\ApplicationContextProvider.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\entity\MessageContent.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\controllers\Controller.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\config\WebSocketConfig.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\entity\Content.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\messaging\Producer.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\messaging\Receiver.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\service\IContentService.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\dao\ContentDAO.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\service\IMessageService.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\dao\IContentDAO.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\Application.java
+C:\Users\Rendszergazda\workspace\websocket-example\src\main\java\neverland\dto\MessageDTO.java
